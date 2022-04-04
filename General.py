@@ -8,6 +8,7 @@ def ask_degree():
 def ask_term():
     term = int(input("Terms: "))
     return term
+    
 
 
 # create an array with degree terms, all of them being 0 except [-1]
